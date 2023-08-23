@@ -1,3 +1,9 @@
+x = int(input("first number: "))
+y = int(input("second number: "))
+z = int(input("third number: "))
+sum = (x) + (y) + (z)
+print(sum)
+
 x = input("first number: ")
 y = input("second number: ")
 z = input("third number: ")
